@@ -1,0 +1,19 @@
+/convnext_base_in22ft1k_multi_images.csv
+/convnext_large_in22k_multi_images.csv
+/convnext_small_in22k_5_epochs_lr_1e-2_resize_256_192_size_171_128_scale_75_resize_pad_pad_mode_zeros.csv
+/convnext_small_in22k_multi_images.csv
+/csv
+/execute.sh
+/models
+/multiple.ipynb
+/paddy-disease-classification.zip
+/parse_dates.py
+/sample_submission.csv
+/scaling-up-road-to-the-top-part-3.ipynb
+/test_images
+/train.csv
+/train_images
+/train_model copy.py
+/train_model.py
+/uno
+/vit-base-beans
